@@ -1,0 +1,750 @@
+[18-Jul-2018 15:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 8
+[18-Jul-2018 16:05:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 17
+[18-Jul-2018 16:08:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 19
+[18-Jul-2018 16:09:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 19
+[18-Jul-2018 16:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 19
+[18-Jul-2018 16:12:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[18-Jul-2018 16:12:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[18-Jul-2018 16:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[18-Jul-2018 16:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[18-Jul-2018 16:21:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:22:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:23:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:25:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[18-Jul-2018 16:28:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 41
+[18-Jul-2018 16:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 41
+[18-Jul-2018 16:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 41
+[18-Jul-2018 16:32:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 41
+[18-Jul-2018 16:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 41
+[18-Jul-2018 16:34:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 41
+[19-Jul-2018 10:03:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:41
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 41
+[19-Jul-2018 10:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:32:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:35:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:36:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:69
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 69
+[19-Jul-2018 10:46:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 37
+[19-Jul-2018 10:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 37
+[19-Jul-2018 10:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 37
+[19-Jul-2018 10:50:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 37
+[19-Jul-2018 10:50:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[19-Jul-2018 10:52:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[19-Jul-2018 10:52:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 39
+[19-Jul-2018 10:54:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[19-Jul-2018 10:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 39
+[19-Jul-2018 10:54:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[19-Jul-2018 10:54:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 39
+[19-Jul-2018 10:55:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[19-Jul-2018 10:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 39
+[19-Jul-2018 10:56:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 38
+[19-Jul-2018 10:56:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 39
+[19-Jul-2018 10:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[19-Jul-2018 10:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[19-Jul-2018 11:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[19-Jul-2018 11:01:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 40
+[19-Jul-2018 11:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 39
+[19-Jul-2018 11:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:05:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:13:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:16:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:21:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:22:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:23:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:31:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:75
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 75
+[19-Jul-2018 11:34:16 UTC] PHP Warning:  move_uploaded_file(/wp-content/plugins/loci_store_locator/images/5b507738629923.75471576.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:34:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjQaxJr' to '/wp-content/plugins/loci_store_locator/images/5b507738629923.75471576.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:38:30 UTC] PHP Warning:  move_uploaded_file(/wp-content/plugins/loci_store_locator/images/5b50783646ad32.17624793.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:38:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpE1mKQ5' to '/wp-content/plugins/loci_store_locator/images/5b50783646ad32.17624793.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:38:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:42:17 UTC] PHP Warning:  move_uploaded_file(http://www.testenvironment.jamesmurphy.tech/wp-content/plugins/loci_store_locator/images/5b50791975dbf9.41223193.png): failed to open stream: HTTP wrapper does not support writeable connections in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:42:17 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpckcYS7' to 'http://www.testenvironment.jamesmurphy.tech/wp-content/plugins/loci_store_locator/images/5b50791975dbf9.41223193.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:42:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:43:06 UTC] PHP Warning:  move_uploaded_file(/wp-content/plugins/loci_store_locator/images/5b50794aba0ab6.53080740.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:43:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXKXN5k' to '/wp-content/plugins/loci_store_locator/images/5b50794aba0ab6.53080740.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:43:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:44:30 UTC] PHP Warning:  move_uploaded_file(wp-content/plugins/loci_store_locator/images/5b50799e9cb396.69426933.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:44:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZG43Mu' to 'wp-content/plugins/loci_store_locator/images/5b50799e9cb396.69426933.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:47:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:47:43 UTC] PHP Warning:  move_uploaded_file(/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/images/5b507a5f916180.96019969.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:47:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpchmsvV' to '/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/images/5b507a5f916180.96019969.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:47:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:48:23 UTC] PHP Warning:  move_uploaded_file(/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/images/5b507a87d59782.22550308.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:48:23 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1uZQAL' to '/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/images/5b507a87d59782.22550308.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:48:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:49:58 UTC] PHP Warning:  move_uploaded_file(/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/images/5b507ae6843060.35323004.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:49:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzlrxg5' to '/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/images/5b507ae6843060.35323004.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:50:48 UTC] PHP Warning:  move_uploaded_file(/testenvironment/wp-content/plugins/loci_store_locator/images/5b507b18b372a2.40037221.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:50:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpT2BLbg' to '/testenvironment/wp-content/plugins/loci_store_locator/images/5b507b18b372a2.40037221.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:51:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:52:22 UTC] PHP Warning:  move_uploaded_file(/wp-content/plugins/loci_store_locator/images/5b507b7673f9d5.50764097.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:52:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9eKwqA' to '/wp-content/plugins/loci_store_locator/images/5b507b7673f9d5.50764097.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:52:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:53:12 UTC] PHP Warning:  move_uploaded_file(/plugins/loci_store_locator/images/5b507ba865ea15.38949969.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:53:12 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBcRaJp' to '/plugins/loci_store_locator/images/5b507ba865ea15.38949969.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:54:02 UTC] PHP Warning:  move_uploaded_file(/loci_store_locator/images/5b507bda624bb1.88503669.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:54:02 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprzEOJm' to '/loci_store_locator/images/5b507bda624bb1.88503669.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:54:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:54:48 UTC] PHP Warning:  move_uploaded_file(/images/5b507c08624e50.23956970.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:54:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNOox88' to '/images/5b507c08624e50.23956970.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 11:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 11:55:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 12:03:24 UTC] PHP Warning:  move_uploaded_file(images/5b507e0c0d4be1.42488772.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:03:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcvHdLG' to 'images/5b507e0c0d4be1.42488772.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:03:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 12:06:14 UTC] PHP Warning:  move_uploaded_file(testenvironment/wp-content/plugins/loci_store_locator/images/5b507eb642b518.55920850.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:06:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxd37Pz' to 'testenvironment/wp-content/plugins/loci_store_locator/images/5b507eb642b518.55920850.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 12:06:59 UTC] PHP Warning:  move_uploaded_file(wp-content/plugins/loci_store_locator/images/5b507ee3d4c9d5.38889389.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:06:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSNGVm1' to 'wp-content/plugins/loci_store_locator/images/5b507ee3d4c9d5.38889389.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 12:07:44 UTC] PHP Warning:  move_uploaded_file(plugins/loci_store_locator/images/5b507f101c5cb4.12489818.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:07:44 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXyXbxR' to 'plugins/loci_store_locator/images/5b507f101c5cb4.12489818.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:07:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 12:08:27 UTC] PHP Warning:  move_uploaded_file(loci_store_locator/images/5b507f3b708266.00743579.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:08:27 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDOpoLT' to 'loci_store_locator/images/5b507f3b708266.00743579.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 12:09:26 UTC] PHP Warning:  move_uploaded_file(images/5b507f76066737.98970365.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:09:26 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQ9i0rF' to 'images/5b507f76066737.98970365.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 12:09:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:77
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 77
+[19-Jul-2018 12:12:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:78
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 78
+[19-Jul-2018 12:13:18 UTC] PHP Warning:  move_uploaded_file(images/5b50805e1cd386.38833932.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 48
+[19-Jul-2018 12:13:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZdRyQN' to 'images/5b50805e1cd386.38833932.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 48
+[19-Jul-2018 12:13:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:78
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 78
+[19-Jul-2018 12:14:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:78
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 78
+[19-Jul-2018 12:17:09 UTC] PHP Warning:  move_uploaded_file(../wp-content/plugins/loci_store_locator/images/5b508145c2d562.77856876.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 48
+[19-Jul-2018 12:17:09 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3NgXwz' to '../wp-content/plugins/loci_store_locator/images/5b508145c2d562.77856876.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 48
+[19-Jul-2018 12:17:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:78
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 78
+[19-Jul-2018 12:19:18 UTC] PHP Warning:  move_uploaded_file(wp-content/plugins/loci_store_locator/images/5b5081c67b6551.41316527.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 48
+[19-Jul-2018 12:19:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5jhOCc' to 'wp-content/plugins/loci_store_locator/images/5b5081c67b6551.41316527.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 48
+[19-Jul-2018 12:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:78
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 78
+[19-Jul-2018 13:42:46 UTC] PHP Warning:  move_uploaded_file(wp-content/plugins/loci_store_locator/images/5b509556bccdd6.16372111.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 46
+[19-Jul-2018 13:42:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprMde9s' to 'wp-content/plugins/loci_store_locator/images/5b509556bccdd6.16372111.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 46
+[19-Jul-2018 13:42:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:44:30 UTC] PHP Warning:  move_uploaded_file(wp-content/plugins/loci_store_locator/images/5b5095be415c76.80598983.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 46
+[19-Jul-2018 13:44:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFtEOrS' to 'wp-content/plugins/loci_store_locator/images/5b5095be415c76.80598983.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 46
+[19-Jul-2018 13:44:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:45:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 13:45:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:47:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 13:47:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:48:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:19) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 13:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:53:48 UTC] PHP Warning:  move_uploaded_file(images/5b5097eca636c8.35198498.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 46
+[19-Jul-2018 13:53:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpD5oobZ' to 'images/5b5097eca636c8.35198498.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 46
+[19-Jul-2018 13:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:54:38 UTC] PHP Warning:  move_uploaded_file(/images/5b50981e29b290.19832545.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 46
+[19-Jul-2018 13:54:38 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkFbhnm' to '/images/5b50981e29b290.19832545.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 46
+[19-Jul-2018 13:54:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 13:59:20 UTC] PHP Warning:  move_uploaded_file(/5b509938b00455.74206923.png): failed to open stream: Permission denied in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 13:59:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5cAXFT' to '/5b509938b00455.74206923.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 13:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 14:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 14:07:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 14:08:53 UTC] PHP Warning:  move_uploaded_file(/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../5b509b75491e87.44733896.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 14:08:53 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbqKhoD' to '/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../5b509b75491e87.44733896.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 14:08:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 14:10:25 UTC] PHP Warning:  move_uploaded_file(/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../images/5b509bd14442c5.84459742.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 14:10:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvP6KB9' to '/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../images/5b509bd14442c5.84459742.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 14:10:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 14:11:19 UTC] PHP Warning:  move_uploaded_file(/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../images/5b509c07280720.30081713.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 14:11:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0dah64' to '/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../images/5b509c07280720.30081713.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 14:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:79
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 79
+[19-Jul-2018 14:14:34 UTC] PHP Warning:  move_uploaded_file(/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../images/5b509cca7fb942.89024148.png): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 14:14:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKNGPh4' to '/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../images/5b509cca7fb942.89024148.png' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 45
+[19-Jul-2018 14:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:80
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 80
+[19-Jul-2018 14:18:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:83
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 83
+[19-Jul-2018 14:24:10 UTC] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING), expecting ',' or ')' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 47
+[19-Jul-2018 14:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:83
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 83
+[19-Jul-2018 14:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 85
+[19-Jul-2018 14:47:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 85
+[19-Jul-2018 14:47:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 85
+[20-Jul-2018 09:11:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 48
+[20-Jul-2018 09:13:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:85
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 85
+[20-Jul-2018 09:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:66
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 66
+[20-Jul-2018 09:26:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:66
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 66
+[20-Jul-2018 09:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:66
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 66
+[20-Jul-2018 09:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:66
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 66
+[20-Jul-2018 09:30:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:66
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 66
+[20-Jul-2018 09:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:68
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 68
+[20-Jul-2018 09:45:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 67
+[20-Jul-2018 09:47:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 66
+[20-Jul-2018 09:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:70
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 70
+[20-Jul-2018 09:58:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 10:03:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:70
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 70
+[20-Jul-2018 10:05:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 10:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 10:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 10:09:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 10:09:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:16:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:30:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:31:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:33:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 14:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:71
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 71
+[20-Jul-2018 15:29:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:76
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 76
+[20-Jul-2018 15:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function show_errors() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:74
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 74
+[23-Jul-2018 12:05:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function show_errors() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:74
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 74
+[23-Jul-2018 12:11:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:117
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 117
+[23-Jul-2018 12:14:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:119
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 119
+[23-Jul-2018 12:15:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:119
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 119
+[23-Jul-2018 12:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:120
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 120
+[23-Jul-2018 12:31:17 UTC] PHP Warning:  require(/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../../../wp-load.php): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 8
+[23-Jul-2018 12:31:17 UTC] PHP Warning:  require(/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../../../wp-load.php): failed to open stream: No such file or directory in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 8
+[23-Jul-2018 12:31:17 UTC] PHP Fatal error:  require(): Failed opening required '/home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin../../../wp-load.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 8
+[23-Jul-2018 12:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:121
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 121
+[23-Jul-2018 12:41:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function debug_to_console() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 18
+[23-Jul-2018 12:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function show_errors() on null in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:80
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 80
+[23-Jul-2018 12:54:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:121
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 121
+[23-Jul-2018 13:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:122
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 122
+[23-Jul-2018 13:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:124
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 124
+[23-Jul-2018 13:19:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php:124
+Stack trace:
+#0 {main}
+  thrown in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 124
+[23-Jul-2018 13:38:09 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`) VALUES ('title') made by wp_jm_form_handle
+[23-Jul-2018 13:38:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 107
+[23-Jul-2018 13:40:22 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`) VALUES ('Cranberry Factory') made by wp_jm_form_handle
+[23-Jul-2018 13:40:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[23-Jul-2018 13:45:46 UTC] WordPress database error Column 'address1' cannot be null for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`) VALUES ('BAM', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL) made by wp_jm_form_handle
+[23-Jul-2018 13:45:46 UTC] WordPress database error Column 'address1' cannot be null for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`) VALUES ('BAM', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL) made by wp_jm_form_handle
+[23-Jul-2018 13:45:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 120
+[23-Jul-2018 13:49:53 UTC] WordPress database error Column 'address1' cannot be null for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`) VALUES ('BAM', NULL, NULL, NULL, NULL, '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', 'www.custard.com', 'Whatever', 'All day long') made by wp_jm_form_handle
+[23-Jul-2018 13:49:53 UTC] WordPress database error Column 'address1' cannot be null for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`) VALUES ('BAM', NULL, NULL, NULL, NULL, '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', 'www.custard.com', 'Whatever', 'All day long') made by wp_jm_form_handle
+[23-Jul-2018 13:49:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 120
+[23-Jul-2018 14:46:07 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`) VALUES ('Cranberry Factory', '137,Elizabeth Street', 'Sydney', '2000', 'Australia', '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', 'www.custard.com', 'Whatever', 'All day') made by wp_jm_form_handle
+[23-Jul-2018 14:46:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 120
+[23-Jul-2018 14:51:53 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`) VALUES ('RODGER', '13,Oxford Street', 'High Wycombe', '', 'United Kingdom', '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', 'www.custard.com', 'WHAT', 'All day long') made by wp_jm_form_handle
+[23-Jul-2018 14:51:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 103
+[23-Jul-2018 15:08:05 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`, `thumbnail_link`) VALUES ('RODGER', '143A,George Street', 'The Rocks', '2000', 'Australia', '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', 'www.custard.com', 'Whatever', 'All day long', '5b55ef557b9825.04747381.png') made by wp_jm_form_handle
+[23-Jul-2018 15:08:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[23-Jul-2018 15:09:50 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`, `thumbnail_link`) VALUES ('Cranberry Factory', '450,Sussex Street', 'Haymarket', '2000', 'Australia', '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', '', 'Some place', 'Never', '5b55efbe908128.87191397.png') made by wp_jm_form_handle
+[23-Jul-2018 15:09:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[23-Jul-2018 15:22:09 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`, `thumbnail_link`) VALUES ('LONG JOHNS', 'Thakral House,289-307,George Street', 'Sydney', '2000', 'Australia', '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', 'www.custard.com', 'What', 'Never', '5b55f2a14a7e76.07419772.png') made by wp_jm_form_handle
+[23-Jul-2018 15:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[23-Jul-2018 15:39:11 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`, `thumbnail_link`) VALUES ('LONG JOHNS', '11,London Road', 'Great Glen,Leicester', 'LE8 9DJ', 'United Kingdom', '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', 'www.custard.com', 'Lovely place', 'All day long', '5b55f69fa58e10.27872498.png') made by wp_jm_form_handle
+[23-Jul-2018 15:39:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:11:36 UTC] WordPress database error  for query INSERT INTO `wp_store_details_table` (`title`, `address1`, `address2`, `address3`, `address4`, `phone`, `fax`, `email`, `url`, `description`, `opening_hours`, `thumbnail_link`) VALUES ('Simon', '54,Londonderry Drive', 'Killarney Heights', '2087', 'Australia', '7768132916', '7768132916', 'jamesmurphy507@hotmail.com', 'www.custard.com', 'Great', 'Always', '5b585ae827b832.25549777.png') made by wp_jm_form_handle
+[25-Jul-2018 11:11:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:15:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:17:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:17:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:18:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:19:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:20:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:21:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 11:24:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 15
+[25-Jul-2018 11:25:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 15
+[25-Jul-2018 11:30:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 105
+[25-Jul-2018 14:44:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 108
+[25-Jul-2018 14:45:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 111
+[25-Jul-2018 14:50:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 106
+[25-Jul-2018 15:02:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 106
+[25-Jul-2018 15:02:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/includes/database_actions.php:98) in /home2/jamesmv0/public_html/testenvironment/wp-content/plugins/loci_store_locator/admin/form_input_control.php on line 106
