@@ -25,7 +25,7 @@ nav ul{
   height: 100%;
 }
 nav li{
-  padding-left: 15px;
+  
   height: 125px;
   border: 1px solid black;
 }
@@ -34,13 +34,6 @@ nav li{
 }
 .row{
   height: 100%;
-}
-#search-bar{
-  height: 50px;
-  border: 5px solid gainsboro;
-}
-#myinput{
-  background-color: white;
 }
 #mapCon{
   width: 100%;
@@ -57,6 +50,30 @@ p {
   margin-top: 5px;
   margin-bottom: 0px;
 }
+#search-bar{
+  height: 50px;
+  border: 5px solid gainsboro;
+  position: relative;
+}
+#myinput{
+  background-color: white;
+  box-sizing: border-box;
+  padding-left: 35px;
+}
+#auto_locate_image{
+  height: 60%;
+  width: auto;
+  position: absolute;
+  top: 8px;
+  left: 6px;
+}
+#magnifying_glass{
+  height: 75%;
+  width: auto;
+  position: absolute;
+  top: 6px;
+  right: 4px;
+}
 </style>
 
 
@@ -68,7 +85,9 @@ p {
             <header>
               <div id="search-bar" class="search-bar" placeholder="Search">
                 <input type="text" name="search" value="" autocomplete="off"
-                id="myinput" onkeyup="searchFunction(event)" placeholder="Enter postcode">
+                id="myinput" onkeyup="searchFunction(event)" placeholder="Enter postcode" />
+                <input type="image" id="auto_locate_image" src="$android_locate" />
+                <input type="image" id="magnifying_glass" src="$magnifying_glass" />
               </div>
             </header>
                 <nav>

@@ -77,6 +77,9 @@ function initialize(){
     $root = explode("wp-content/", (string)get_template_directory_uri())[0];
     //$login_path = $root . "wp-content/plugins/loci_store_locator/login.js";
     $map_details_call = $root . "wp-content/plugins/loci_store_locator/public/map_details_call.js";
+    $android_locate = $root . "wp-content/plugins/loci_store_locator/images/location-512.png";
+    $magnifying_glass = $root . "wp-content/plugins/loci_store_locator/images/magnifying_glass2.png";
+    $blank_map_marker = $root . "wp-content/plugins/loci_store_locator/images/map-marker-icon3.png";
     $search_bar = $root . "wp-content/plugins/loci_store_locator/public/search_bar.js";    
     $plugin_path = $root . "wp-content/plugins/loci_store_locator/public/map.js";
     debug_to_console($root);
