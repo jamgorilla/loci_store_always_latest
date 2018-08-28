@@ -85,9 +85,9 @@ p {
             <header>
               <div id="search-bar" class="search-bar" placeholder="Search">
                 <input type="text" name="search" value="" autocomplete="off"
-                id="myinput" onkeyup="searchFunction(event)" placeholder="Enter postcode" />
-                <input type="image" id="auto_locate_image" src="$android_locate" />
-                <input type="image" id="magnifying_glass" src="$magnifying_glass" />
+                id="myinput" onkeyup="searchFunction(event)" placeholder="Enter address or postcode" />
+                <input type="image" id="auto_locate_image" src="$android_locate" onclick="pressedAutoLocateButton()" />
+                <input type="image" id="magnifying_glass" src="$magnifying_glass" onclick="searchFunction('Enter')"/>
               </div>
             </header>
                 <nav>

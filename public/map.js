@@ -5,7 +5,7 @@ var lastPosition = {lat: 0,lng: 0};
 
 
 function initCurrentMap(geoLat, geoLon){
-  
+  geocoder = new google.maps.Geocoder();
         geoLat = geoLat || 51.5255000;
         geoLon = geoLon || -0.0795000;
 
@@ -37,7 +37,7 @@ function initCurrentMap(geoLat, geoLon){
             // icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
           })
         }
-      })
+      }, null)
     
     }
 
