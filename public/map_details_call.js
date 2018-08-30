@@ -3,6 +3,7 @@ var locations_array = [];
 function map_panels_populate(callback, clientLocationOrigin){
 
 var storeObj = {};
+var distancesFromClient = [];
         
         jQuery.ajax({
               type: "GET",
@@ -27,7 +28,7 @@ var storeObj = {};
                 if (clientLocationOrigin !== null) {
                 //process based on location
                    console.log('not null', clientLocationOrigin)
-                   var unorderedLocationArray = []; 
+                    
 
                    for (var v = 1;v <= cleansed_data.length/28;v++) {
 
@@ -40,17 +41,17 @@ var storeObj = {};
 
                       temp = Math.round(temp);
                       console.log(temp)
-                      unorderedLocationArray.push([temp,v]);
+                      distancesFromClient.push([temp,v]);
                    }
-                      console.log(unorderedLocationArray);
+                      console.log(distancesFromClient);
 
-                      unorderedLocationArray.sort((a,b) => 
+                      distancesFromClient.sort((a,b) => 
                         (a[0] - b[0])
                       );
 
 
                       //create order
-                      console.log('orderArray', unorderedLocationArray)
+                      console.log('orderArray', distancesFromClient[0][0]/1609.344, distancesFromClient[1][0]/1609.344, distancesFromClient[2][0]/1609.344, distancesFromClient[3][0]/1609.344)
 
                       var dispoArray = [];
                       var totalArray = [];
@@ -67,7 +68,7 @@ var storeObj = {};
 
                       //reorder totolArray
                       for (var n = 0;n < totalArray.length;n++) {
-                         finalArray.push(totalArray[unorderedLocationArray[n][1]-1]);
+                         finalArray.push(totalArray[distancesFromClient[n][1]-1]);
                       }
                       
                       cleansed_data = finalArray.reduce((acc, val) => acc.concat(val), [])
@@ -85,6 +86,14 @@ var storeObj = {};
                   var li = document.createElement("li");
 
                   if (i%28===0) {
+
+                    console.log(distancesFromClient, distancesFromClient.length)
+                    var added = 0;
+                    if (distancesFromClient.length === 0) {
+                      added = 1;
+                      distancesFromClient[i/28] = 0;
+                    }
+
                     count++;
                     li.innerHTML = '<div class="container" style="width: 100%;">' +
                                       '<div class="row">' +
@@ -116,7 +125,8 @@ var storeObj = {};
                                           '</div>' +
 
                                           '<div class="col-sm-2" style="padding-top: 10px;position: relative;padding-left: 8px;padding-right: 0px;">' +
-                                              '<p>1.5mi</p>' +
+                                              '<p>' + (((distancesFromClient[i/28][0]/1609.344)*10)/10).toFixed(1) +
+                                                'mi' + '</p>' +
                                           '</div>' +
 
                                       '</div>' +
@@ -124,6 +134,11 @@ var storeObj = {};
                     ul.appendChild(li);
 
                     locations_array.push(cleansed_data[i+27])
+
+                    if (added === 1) {
+                      distancesFromClient = [];
+                      added = 0;
+                    }
                   }
                 }
                 callback(locations_array)
