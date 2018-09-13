@@ -25,8 +25,32 @@ function searchFunction(event) {
           //ul.innerHTML = '';
           $("#scrolling_store_list").empty();
 
-        map_panels_populate(function(){
-        }, [results[0].geometry.location.lat(), results[0].geometry.location.lng()]);
+        map_panels_populate(function(loc_array){
+
+          console.log('loc_array', loc_array)
+          console.log(markers)
+          markers = [];
+          console.log(markers)
+        for (var p = 0;p < loc_array.length;p++) {
+
+          var temp_latlng = loc_array[p].split(":");
+          var latitude = Number(temp_latlng[0]);
+          var longitude = Number(temp_latlng[1]); 
+
+          // Add Markers
+          lastKnownLocation = new google.maps.Marker({
+            position: {lat: latitude,lng: longitude},
+            map: map,
+            animation: google.maps.Animation.DROP
+            // icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+          })
+          markers.push(lastKnownLocation)
+        }
+        loc_array = [];
+      }, [results[0].geometry.location.lat(), results[0].geometry.location.lng()])
+
+        //map_panels_populate(function(){
+        //}, [results[0].geometry.location.lat(), results[0].geometry.location.lng()]);
    
     });
   

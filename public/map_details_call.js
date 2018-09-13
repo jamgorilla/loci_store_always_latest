@@ -87,12 +87,16 @@ var distancesFromClient = [];
 
                   if (i%28===0) {
 
-                    console.log(distancesFromClient, distancesFromClient.length)
+                    console.log(distancesFromClient, distancesFromClient.length,distancesFromClient[i/28],distancesFromClient[i/28]<1000)
                     var added = 0;
                     if (distancesFromClient.length === 0) {
                       added = 1;
                       distancesFromClient[i/28] = 0;
-                    }
+
+                    } 
+
+                    if (distancesFromClient[i/28][0] < 1000*1609.344 || distancesFromClient[i/28] === 0) {
+                     // to increase the limit of miles from target to be displayed adjust the 1000 in the row above
 
                     count++;
                     li.innerHTML = '<div class="container" style="width: 100%;">' +
@@ -114,7 +118,7 @@ var distancesFromClient = [];
                                               '<p>' + cleansed_data[i+11] + '</p>' + 
                                               '<p></p>' +
                                               '<div class="btn-group">' +
-                                                '<button style="width: 100px;height: 30px;font-size: 10px;" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">' +
+                                                '<button style="width: 100px;height: 25px;font-size: 10px;line-height: 50%;" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">' +
                                                   'Opening Times' +
                                                 '</button>' +
                                                 '<div class="dropdown-menu">' +
@@ -124,7 +128,7 @@ var distancesFromClient = [];
                                             '</div>' +
                                           '</div>' +
 
-                                          '<div class="col-sm-2" style="padding-top: 10px;position: relative;padding-left: 8px;padding-right: 0px;">' +
+                                          '<div class="col-sm-2" style="padding-top: 10px;position: relative;padding-left: 0px;padding-right: 0px;">' +
                                               '<p>' + (((distancesFromClient[i/28][0]/1609.344)*10)/10).toFixed(1) +
                                                 'mi' + '</p>' +
                                           '</div>' +
@@ -133,7 +137,11 @@ var distancesFromClient = [];
                                     '</div>';
                     ul.appendChild(li);
 
+                    
                     locations_array.push(cleansed_data[i+27])
+
+                    //////  
+                    }
 
                     if (added === 1) {
                       distancesFromClient = [];
@@ -141,7 +149,9 @@ var distancesFromClient = [];
                     }
                   }
                 }
+                console.log(locations_array,'boom')
                 callback(locations_array)
+                locations_array = [];
               }
       });
 

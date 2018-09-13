@@ -93,8 +93,13 @@ function _2WA_remove_store () {
 
 
 add_action( 'wp_ajax_retrieve_store_data', '_2WA_retrieve_store_data');
+add_action( 'wp_ajax_nopriv_retrieve_store_data', '_2WA_retrieve_store_data');
+
 add_action( 'wp_ajax_add_customer', '_2WA_add_customer');
+add_action( 'wp_ajax_nopriv_add_customer', '_2WA_add_customer');
+
 add_action( 'wp_ajax_remove_store', '_2WA_remove_store');
+add_action( 'wp_ajax_nopriv_remove_store', '_2WA_remove_store');
 ?>
 
 

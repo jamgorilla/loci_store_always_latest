@@ -1,6 +1,7 @@
 var map;
 var currentCenter;
-
+var lastKnownLocation = {};
+var markers = [];
 var lastPosition = {lat: 0,lng: 0};
 
 
@@ -23,6 +24,7 @@ function initCurrentMap(geoLat, geoLon){
       //callback to initiate markers
       map_panels_populate(function(loc_array){
 
+          //console.log('loc_array', loc_array)
         for (var p = 0;p < loc_array.length;p++) {
 
           var temp_latlng = loc_array[p].split(":");
@@ -30,13 +32,25 @@ function initCurrentMap(geoLat, geoLon){
           var longitude = Number(temp_latlng[1]); 
 
           // Add Markers
-          let lastKnownLocation = new google.maps.Marker({
+          lastKnownLocation = new google.maps.Marker({
             position: {lat: latitude,lng: longitude},
             map: map,
-            animation: google.maps.Animation.DROP
+            animation: google.maps.Animation.DROP,
+            num: p
             // icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
           })
+
+          markers.push(lastKnownLocation);
+
+          //click event handler on markers
+          markers[p].addListener('click', function(event) {
+            console.log(this.num);
+            map.setZoom(12);
+            map.setCenter(markers[this.num].getPosition());
+          });
+
         }
+        loc_array = [];
       }, null)
     
     }
